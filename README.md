@@ -8,7 +8,7 @@ El laboratorio tiene como objetivo poner en práctica conceptos fundamentales de
 
 Entre los temas trabajados se encuentran el uso de variables, formularios, estructuras condicionales, operaciones aritméticas y la aplicación de estilos mediante hojas de CSS.
 
-## 📂 Archivos del proyecto
+## Archivos del proyecto
 
 | Archivo                    | Descripción                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |
