@@ -108,7 +108,7 @@ Esta práctica busca familiarizarse con los conceptos básicos de PHP y comprend
 
 Los ejercicios permiten practicar desde la entrada de datos mediante formularios hasta el procesamiento de esos datos y la presentación de resultados de una forma más organizada.
 
-## 👤 Autor
+## Autor
 
 **Samuel Orocú**
 
